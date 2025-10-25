@@ -16,7 +16,7 @@
 <h3>👩‍💻 About Me</h3>
 <pre><code class="language-python">class MonikaM:
     def init(self):
-        self.name = "Monika M"
+        self.name = "priyanka src"
         self.role = "Data Analyst | Data Science Enthusiast"
         self.skills = ["SQL", "Python", "Power BI", "Data Visualization", "Data Cleaning"]
         self.goal = "Turning raw data into meaningful insights 🚀"
@@ -51,7 +51,7 @@ monika = MonikaM()
       <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monikamanju&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" width="60%"/></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Monikamanju&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&title_color=00F5FF" width="95%"/></td>
+      <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&title_color=00F5FF" width="95%"/></td>
     </tr>
   </table>
 </div>
@@ -101,7 +101,7 @@ monika = MonikaM()
 <!-- ===== CONNECT ===== -->
 <h3>💫 Connect With Me</h3>
 <p align="center">
-  <a href="mailto:mm4983785@gmail.com"><img src="https://img.shields.io/badge/📩_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:priyankakunjilana@gmail.comcom""><img src="https://img.shields.io/badge/📩_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/monika-m-79b644383"><img src="https://img.shields.io/badge/💼_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Monikamanju"><img src="https://img.shields.io/badge/🐙_GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
