@@ -1,43 +1,13 @@
-<!-- ⚡ MONIKA M – Futuristic GitHub Profile README -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Monika M – Data Analyst & Data Scientist</title>
-  <style>
-    body {
-      background: #0d1117;
-      color: #ffffff;
-      font-family: "Segoe UI", Arial, sans-serif;
-      margin: 0;
-      padding: 0 2rem;
-    }
-    a { color: #00f5ff; text-decoration: none; }
-    details {
-      background: rgba(0, 0, 0, 0.6);
-      border-radius: 12px;
-      padding: 15px;
-      border: 1px solid #00f5ff;
-      transition: all 0.3s ease;
-      margin: 0.5rem 0;
-    }
-    details:hover {
-      box-shadow: 0 0 20px #00f5ff;
-      transform: translateY(-4px);
-    }
-    summary {
-      cursor: pointer;
-      color: #00f5ff;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-
-<!-- ===== HERO BANNER ===== -->
+# ⚡ **MONIKA M – Futuristic GitHub Profile README**
+<html>
+<head></head>
+  <body>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=✨+MONIKA+M;📊+DATA+ANALYST+%26+DATA+SCIENTIST;🐍+PYTHON+%7C+SQL+%7C+POWER+BI;🚀+DATA+VISUALIZATION+EXPERT" alt="Typing SVG"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=90&section=header" width="100%" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=✨+MONIKA+M;📊+DATA+ANALYST+%26+DATA+SCIENTIST;🐍+PYTHON+%7C+SQL+%7C+POWER+BI;🚀+DATA+VISUALIZATION+EXPERT)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=90&section=header)
+
 </div>
 
 ---
@@ -45,7 +15,7 @@
 <!-- ===== ABOUT ===== -->
 <h3>👩‍💻 About Me</h3>
 <pre><code class="language-python">class MonikaM:
-    def _init_(self):
+    def init(self):
         self.name = "Monika M"
         self.role = "Data Analyst | Data Science Enthusiast"
         self.skills = ["SQL", "Python", "Power BI", "Data Visualization", "Data Cleaning"]
@@ -57,6 +27,7 @@
 monika = MonikaM()
 </code></pre>
 
+
 <!-- ===== TECH STACK ===== -->
 <h3>⚙ Tech Stack</h3>
 <p align="center">
@@ -65,7 +36,7 @@ monika = MonikaM()
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-4E9A06?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-4E9A06?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Analysis"/>
 </p>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -87,6 +58,7 @@ monika = MonikaM()
 
 <!-- ===== FEATURED PROJECTS ===== -->
 <h3>🌟 Featured Projects</h3>
+
 <details>
   <summary><b>📊 Sales Analysis Dashboard (Power BI)</b></summary>
   <ul>
@@ -111,7 +83,7 @@ monika = MonikaM()
   <summary><b>🧠 Customer Churn Prediction (ML)</b></summary>
   <ul>
     <li>Built predictive models with Logistic Regression & Decision Trees.</li>
-    <li>Achieved 92 % accuracy on test data.</li>
+    <li>Achieved 92% accuracy on test data.</li>
     <li>Presented insights visually using Power BI.</li>
   </ul>
   <p><b>Tech Stack:</b> Python | Scikit-learn | Power BI</p>
