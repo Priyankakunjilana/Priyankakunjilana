@@ -1,4 +1,4 @@
-# ⚡ **priyanka kB– Futuristic GitHub Profile README**
+defikaMikaM **priyanka kB– Futuristic GitHub Profile README**
 <html>
 <head></head>
   <body>
@@ -14,7 +14,7 @@
 
 <!-- ===== ABOUT ===== -->
 <h3>👩‍💻 About Me</h3>
-<pre><code class="language-python">class MonikaM:
+<pre><code class="language-python">class priyankaKB:
     def init(self):
         self.name = "priyanka src"
         self.role = "Data Analyst | Data Science Enthusiast"
