@@ -24,7 +24,7 @@ defikaMikaM **priyanka kB– Futuristic GitHub Profile README**
     def current_focus(self):
         return ["Interactive dashboards", "Predictive analytics", "Business insights"]
 
-monika = MonikaM()
+priyanka = priyankakb()
 </code></pre>
 
 
